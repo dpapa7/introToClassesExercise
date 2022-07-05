@@ -1,0 +1,27 @@
+Animal
+--------
++name: string
++age: int
+---------
++move()
++eat()
+
+
+Book
+--------
++title: string
++Author: string
++isbn: int
+---------
++read()
+
+
+Vehicle
+---------
++Make : string
++model: string
++Year: int
++mpg: int
+---------
++drive()
++brake()
