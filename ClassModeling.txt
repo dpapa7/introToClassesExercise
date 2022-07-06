@@ -7,6 +7,21 @@ Animal
 +eat()
 
 
+fish(animal)
+-----------
++bite()
+
+snake(animal)
+------------
++hiss()
++rattle()
+
+person(animal)
+------------
++speak()
+
+
+
 Book
 --------
 +title: string
@@ -14,6 +29,16 @@ Book
 +isbn: int
 ---------
 +read()
+
+textbook(book)
+-----------
+-study()
+-sleepon()
+
+adressbook(book)
+------------
+-lookup()
+
 
 
 Vehicle
@@ -25,3 +50,20 @@ Vehicle
 ---------
 +drive()
 +brake()
+
+car(vehicle)
+--------
+-honkhorn()
+
+bicycle(vehicle)
+------------
+-changegears()
+
+Boat(vehcile)
+---------------
+-honkhorn()
+
+hot-air ballon(vehicle)
+-----------------
+-ascend()
+-descend()
